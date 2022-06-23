@@ -7,7 +7,7 @@
  {
 			"key": "libviophp",
 			"name": "libvio",
-			"type": 1,
+			"type": 0,
 			"api": "http://xiaoguozitv.cn/catys/libvio.php",
 			"searchable": 1,
 			"quickSearch": 1
@@ -15,7 +15,7 @@
  {
 			"key": "ysgcphp",
 			"name": "ysgc",
-			"type": 1,
+			"type": 0,
 			"api": "http://xiaoguozitv.cn/catys/ysgc.php",
 			"searchable": 1,
 			"quickSearch": 1
@@ -23,7 +23,7 @@
 {
 			"key": "cokemvphp",
 			"name": "cokemv",
-			"type": 1,
+			"type": 0,
 			"api": "http://xiaoguozitv.cn/catys/cokemv.php",
 			"searchable": 1,
 			"quickSearch": 1
