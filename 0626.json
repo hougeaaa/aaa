@@ -1,7 +1,7 @@
 {
 
 //"spider": "https://raw.githubusercontents.com/liu673cn/mao/main/jar/custom_spider.jar",
-"spider": "clan//TVBox/0626.jar",
+"spider": "clan://TVBox/0626.jar",
  
 "sites": [
 
