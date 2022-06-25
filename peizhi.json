@@ -1,6 +1,7 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-    "spider": "https://raw.nite07.com/ts/doraAmen.jar",
+    //"spider": "https://raw.nite07.com/ts/doraAmen.jar",
+    "spider": "https://hougeaaa.github.io/aaa/doraAmen.jar",
     "lives": [
         {
             "group": "redirect",
